@@ -1,6 +1,14 @@
 ## Hi there 👋
-blahblahblah
-## bleh
+
+I'm Advay. I'm a second year University of Waterloo student studying Computer Science. 
+I love playing and making games, solving problems, listening and composing music, and Offensive Security.
+
+## 👀 Socials
+
+
+## 🖥️ Current Tech Stack
+
+
 <!--
 **advaysinghC/advaysinghC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
